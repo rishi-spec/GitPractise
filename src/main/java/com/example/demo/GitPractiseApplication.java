@@ -16,6 +16,9 @@ public class GitPractiseApplication {
 		
 		String msg = "This is from feature-101";
 		System.out.println(msg);
+		
+		String feature102="This is Feature 102";
+		System.out.println(feature102);
 		 
 	}
 
