@@ -11,9 +11,12 @@ public class GitPractiseApplication {
 		ConfigurableApplicationContext ctxt = SpringApplication.run(GitPractiseApplication.class, args);
 		
 		
-		String name =  "This is Rushi System";
+		String name =  "This is from develop branch";
 		System.out.println(name);
 		
+		String msg = "This is from feature-101";
+		System.out.println(msg);
+		 
 	}
 
 }
